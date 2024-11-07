@@ -10,4 +10,4 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: "group:default/demo"
+  owner: "group:default/admin"
