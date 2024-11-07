@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "asdasd"
+  description: "testesteste-blobloblog"
+  annotations:
+    github.com/project-slug: sjflausino/asdasd
+    backstage.io/techdocs-ref: dir:.
+    github.com/workflows: ci.yml
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/demo"
